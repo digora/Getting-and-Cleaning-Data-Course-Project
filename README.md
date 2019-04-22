@@ -17,8 +17,8 @@ The goal is to prepare tidy data that can be used for later analysis.
 6.) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. Use pipeline command to create a new tidy dataset with command group_by and summarize_each in dplyr package
 
 ## The files in this repo:
-1.) CodeBook.md <- Indicates all the variables and summaries calculated, along with units, in tidydataset.txt
+1.) CodeBook.md <- Indicates all the variables and summaries calculated, along with units, in tidydataset.csv
 
-2.) tidydataset.txt <- the tidy data set. The output of run_analysis.R
+2.) tidydataset.csv <- the tidy data set. The output of run_analysis.R
 
 3.) run_analysis.R <- The R script that does the instructions above
